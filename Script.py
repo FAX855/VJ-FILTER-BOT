@@ -5,7 +5,7 @@
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} 👋,</blockquote>
     
-ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ...💸</b>"""
+Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Wɪᴛʜ Aᴅᴍɪɴ Pᴇʀᴍɪꜱꜱɪᴏɴ Aɴᴅ ɪ Wɪʟʟ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇꜱ/Sᴇʀɪᴇꜱ Wʜᴀᴛᴇᴠᴇʀ Yᴏᴜ Wᴀɴᴛ....💸</b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
@@ -29,7 +29,6 @@ class script(object):
     
 ‣ ᴍʏ ɴᴀᴍᴇ : {}
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴄʟᴏɴᴇᴅ ғʀᴏᴍ : <a href=https://t.me/{}>{}</a>
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -37,9 +36,9 @@ class script(object):
 
     CLONE_TXT = """<b>🌟 <u>CLONE MODE</u>
 
-- Yᴏᴜ Cʀᴇᴀᴛᴇ Yᴏᴜʀ Oᴡɴ Cʟᴏɴᴇ Bᴏᴛ Bʏ /clone Cᴏᴍᴍᴀɴᴅ 
-- Yᴏᴜ Cᴀɴ Bʀᴏᴀᴅᴄᴀsᴛ Iɴ Yᴏᴜʀ Cʟᴏɴᴇ Bᴏᴛs
-- Aɴᴅ Mɪʟʟɪᴏɴ Oғ Fɪʟᴇs Iɴᴅᴇx Aʟʀᴇᴀᴅʏ Nᴏ Nᴇᴇᴅ Tᴏ Aᴅᴅ Aɴʏ Fɪʟᴇ
+- ɴᴏ ꜱᴇʀᴠɪᴄᴇ ꜰᴏᴜɴᴅ 
+- ɴᴏ ꜱᴇʀᴠɪᴄᴇ ꜰᴏᴜɴᴅ
+- ɴᴏ ꜱᴇʀᴠɪᴄᴇ ꜰᴏᴜɴᴅ
 
 👨‍💻 Cᴏᴍᴍᴀɴᴅ : /clone</b>"""
 
@@ -752,3 +751,4 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
