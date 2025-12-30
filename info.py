@@ -21,7 +21,7 @@ PICS = (environ.get('PICS', 'https://files.catbox.moe/jqj2yv.jpg https://files.c
 
 
 # Admins & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()] # For Multiple Id Use One Space Between Each.
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5277502482').split()] # For Multiple Id Use One Space Between Each.
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]  # For Multiple Id Use One Space Between Each.
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 
@@ -88,10 +88,10 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'PUBLIC_FILE_CHANNEL01'
 
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/cinemacompanu')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Faxfiles')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/faxfiles') # Support Chat Link Without https:// or @
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/laser_of_telegram')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Offline326')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Offline326')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/offline326') # Support Chat Link Without https:// or @
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/Offline326')
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
@@ -196,6 +196,7 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
 
