@@ -13,7 +13,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'TechVJBot')
 API_ID = int(environ.get('API_ID', '21383441'))
 API_HASH = environ.get('API_HASH', '62141d4cefa2756e4059cbdeac6ab46b')
-BOT_TOKEN = environ.get('BOT_TOKEN', "8570936753:AAETjNheHtXIOPO63IbV6FhxO_4GUzPIr0s")
+BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
@@ -83,7 +83,7 @@ PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟ�
 
 # Clone Information : If Clone Mode Is True Then Bot Clone Other Bots.
 CLONE_MODE = bool(environ.get('CLONE_MODE', False)) # Set True or False
-CLONE_DATABASE_URI = environ.get('CLONE_DATABASE_URI', "mongodb+srv://clonedatabase:clonedatabase@clonedatabase.hfmunxm.mongodb.net/?retryWrites=true&w=majority&appName=CLONEDATABASE") # Necessary If clone mode is true
+CLONE_DATABASE_URI = environ.get('CLONE_DATABASE_URI', "mongodb+srv://fax008f_db_user:NSxUbHMzP4D79SqT@cluster0.nn9tq0c.mongodb.net/?appName=Cluster0) # Necessary If clone mode is true
 PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'PUBLIC_FILE_CHANNEL01') # Public Channel Username Without @ or without https://t.me/ and Bot Is Admin With Full Right.
 
 
@@ -196,6 +196,7 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
 
