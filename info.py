@@ -88,10 +88,10 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'PUBLIC_FILE_CHANNEL01'
 
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Offline326')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Offline326')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/offline326') # Support Chat Link Without https:// or @
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/Offline326')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/cinemacompanu')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/faxfiles')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/cinemacompanu') # Support Chat Link Without https:// or @
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/The_real_fax')
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
@@ -135,7 +135,7 @@ TUTORIAL = environ.get('TUTORIAL', '') # How Open Shortner Link Video Link , Cha
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 PORT = environ.get("PORT", "8080")
-MSG_ALRT = environ.get('MSG_ALRT', 'Hello My Dear Friends ❤️')
+MSG_ALRT = environ.get('MSG_ALRT', 'ʜᴀɪɪ ᴍʏ ᴏᴡɴᴇʀ ꜰᴀx ❤️')
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CAPTION}")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", f"{script.IMDB_TEMPLATE_TXT}")
@@ -196,6 +196,7 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
 
