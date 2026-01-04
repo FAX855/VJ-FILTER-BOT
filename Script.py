@@ -41,6 +41,8 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Wɪᴛʜ Aᴅᴍɪɴ Pᴇʀᴍɪꜱꜱ�
 - ɴᴏ ꜱᴇʀᴠɪᴄᴇ ꜰᴏᴜɴᴅ
 
 👨‍💻 Cᴏᴍᴍᴀɴᴅ : /clone</b>"""
+    
+OWNER_TXT = """<b>Need Help? Contact the Developer below for support or custom bot creation @laser_of_telegram.</b>"""
 
     SUBSCRIPTION_TXT = """
 <b>ʀᴇғᴇʀʀᴇ ʏᴏᴜʀ ʟɪɴᴋ ᴛᴏ ʏᴏᴜʀ ғʀɪᴇɴᴅs, ғᴀᴍɪʟʏ, ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ ᴛᴏ ɢᴇᴛ ғʀᴇᴇ ᴘʀᴇᴍɪᴜᴍ ғᴏʀ {}
@@ -751,4 +753,5 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
